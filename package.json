@@ -1,0 +1,28 @@
+{
+  "name": "stream-server",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node dist/app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "core-js": "^0.9.18",
+    "cors": "^2.7.1",
+    "event-stream": "^3.3.1",
+    "express": "^4.13.1",
+    "jsonstream": "^1.0.3",
+    "lodash": "^3.10.0",
+    "moment": "^2.10.3",
+    "parse-link-header": "^0.2.0",
+    "request": "^2.58.0",
+    "rx": "^2.5.3",
+    "rx-node": "^1.0.1"
+  },
+  "devDependencies": {
+    "tsd": "^0.6.3",
+    "typescript": "^1.5.0-beta"
+  }
+}

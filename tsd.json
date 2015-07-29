@@ -1,0 +1,54 @@
+{
+  "version": "v4",
+  "repo": "borisyankov/DefinitelyTyped",
+  "ref": "master",
+  "path": "typings",
+  "bundle": "src/tsd.d.ts",
+  "installed": {
+    "lodash/lodash.d.ts": {
+      "commit": "d67c5e3e1a1291ab58dcaace6ce76f69e860d33c"
+    },
+    "request/request.d.ts": {
+      "commit": "2e904baa7f46d2752b63e6aeb8687ed471e7569b"
+    },
+    "node/node.d.ts": {
+      "commit": "70737c2a2496f7a13c4da63eb00081cad94d19f1"
+    },
+    "rx/rx.d.ts": {
+      "commit": "70737c2a2496f7a13c4da63eb00081cad94d19f1"
+    },
+    "rx/rx-lite.d.ts": {
+      "commit": "70737c2a2496f7a13c4da63eb00081cad94d19f1"
+    },
+    "JSONStream/JSONStream.d.ts": {
+      "commit": "70737c2a2496f7a13c4da63eb00081cad94d19f1"
+    },
+    "form-data/form-data.d.ts": {
+      "commit": "70737c2a2496f7a13c4da63eb00081cad94d19f1"
+    },
+    "rx/rx.time.d.ts": {
+      "commit": "70737c2a2496f7a13c4da63eb00081cad94d19f1"
+    },
+    "rx/rx.time-lite.d.ts": {
+      "commit": "70737c2a2496f7a13c4da63eb00081cad94d19f1"
+    },
+    "moment/moment.d.ts": {
+      "commit": "6f04d25ad38982d372cc3cda62fa4c0eef9e24d7"
+    },
+    "moment/moment-node.d.ts": {
+      "commit": "6f04d25ad38982d372cc3cda62fa4c0eef9e24d7"
+    },
+    "rx/rx.aggregates.d.ts": {
+      "commit": "6f04d25ad38982d372cc3cda62fa4c0eef9e24d7"
+    },
+    "express/express.d.ts": {
+      "commit": "b95d6bea8041db86ccee30ef1ef97e4358432311"
+    },
+    "serve-static/serve-static.d.ts": {
+      "commit": "b95d6bea8041db86ccee30ef1ef97e4358432311"
+    },
+    "mime/mime.d.ts": {
+      "commit": "b95d6bea8041db86ccee30ef1ef97e4358432311"
+    }
+  }
+}
